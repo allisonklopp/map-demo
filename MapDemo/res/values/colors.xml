@@ -1,0 +1,9 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="transparent_blue">#110000ff</color>
+    <color name="blue">#FF6F79E3</color>
+    <color name="teal">#FF00CCFF</color>
+    <color name="lt_teal">#FF00FFFF</color>
+
+</resources>
