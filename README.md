@@ -1,7 +1,7 @@
 map-demo
 ========
 
-This demo application will generate three random points on a map around the device's location.
+This Android demo application will generate three random points on a map around the device's location.
 
 Project info
 - This project requires Google Play Services library
